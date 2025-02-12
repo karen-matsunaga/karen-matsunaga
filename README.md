@@ -7,17 +7,17 @@ Web Developer
 Cursando o Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São José do Rio Preto.
 
 Ferramentas:
-*▪️Conhecimento em HTML5 e CSS3;
-*▪️Microsoft 365: Microsoft Excel, Microsoft Power Point e Microsoft Word;
-*▪️Linguagens de programação: Dart, Java e Python;
-*▪️Framework: Flutter;
-*▪️Banco de Dados: SQL Server.
+* Conhecimento em HTML5 e CSS3;
+* Microsoft 365: Microsoft Excel, Microsoft Power Point e Microsoft Word;
+* Linguagens de programação: Dart, Java e Python;
+* Framework: Flutter;
+* Banco de Dados: SQL Server.
 
 Idiomas: Português 🇧🇷 nativo e inglês 🇺🇸 básico.
 
 Contatos:
 * ✉️ E-mail: [karen.f.matsunaga@gmail.com](mailto:karen.f.matsunaga@gmail.com)
-* 🌐 [https://github.com/karen-matsunaga](https://www.linkedin.com/in/karenmatsunaga)
+* 🌐 [https://www.linkedin.com/in/karenmatsunaga](https://www.linkedin.com/in/karenmatsunaga)
 
 Skills
 ============
